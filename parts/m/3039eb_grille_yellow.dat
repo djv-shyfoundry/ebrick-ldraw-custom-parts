@@ -1,0 +1,10 @@
+0 Slope 45 2 x 2 with Grille - Yellow
+0 Name: 3039eb_grille_yellow
+0 Author: Emmet Brickowski [EBrick]
+
+0 BFC CERTIFY CCW
+
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039ebs01.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039eb_grille_yellow_s02.dat
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 s\3039ebs03.dat
+0
