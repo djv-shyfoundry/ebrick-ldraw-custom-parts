@@ -1,5 +1,5 @@
 # Line Endings
-* text=auto
+* text=auto eol=lf
 
 # Binary Files
 *.ai binary
