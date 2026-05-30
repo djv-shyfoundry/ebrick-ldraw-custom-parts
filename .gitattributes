@@ -1,0 +1,8 @@
+# Line Endings
+* text=auto
+
+# Binary Files
+*.ai binary
+*.col binary
+*.conn binary
+*.png binary
