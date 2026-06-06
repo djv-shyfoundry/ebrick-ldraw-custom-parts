@@ -1,0 +1,10 @@
+0 Tile 2 x 2
+0 Name: 3068eb.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s\3068ebs01.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s\3068ebs02.dat
