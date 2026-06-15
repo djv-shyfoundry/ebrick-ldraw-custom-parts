@@ -1,0 +1,18 @@
+0 ~Container, Box 2 x 2 x 2 Door with Slot - Front Face
+0 Name: s\4346ebs02.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+0 PE_TEX_PATH -1
+0 // ANGLE: 90° - DIMENSIONS (W x L x H): 2 x 0 x 2.2 IN STUDS - IMAGE SIZE: 800px x 880px
+0 // PE_TEX_INFO 0.0000 22.0000 -30.9000 40.2000 0.0000 0.0000 0.0000 0.0000 -44.2000 0.0000 2.2000 0.0000 -20.0000 22.0000 20.0000 -22.0000 [BASE64]
+
+4 16 20 44 -30 20 40 -30 16 40 -30 16 44 -30
+4 16 -20 40 -30 -20 44 -30 -16 44 -30 -16 40 -30
+4 16 12 44 -30 12 40 -30 -12 40 -30 -12 44 -30
+4 16 20 40 -30 20 0 -30 10 4 -30 10 12 -30
+4 16 -10 12 -30 -10 4 -30 -20 0 -30 -20 40 -30
+4 16 20 40 -30 10 12 -30 -10 12 -30 -20 40 -30
+4 16 10 4 -30 20 0 -30 -20 0 -30 -10 4 -30
