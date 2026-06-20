@@ -58,7 +58,7 @@
 
     - 4346eb001 - *Blacktron I Logo Facing Forward*
 
-# FLags
+# Flags
 
 - ### Flag 7 x 3 with Bar Handle
 
@@ -66,9 +66,27 @@
 
 # Slopes
 
+- ### Slope 18 4 x 1
+
+- ### Slope 18 4 x 2
+
+- ### Slope 30 1 x 1 x 2/3
+
 - ### Slope 30 1 x 2 x 2/3
  
     - 85984eb001 - *Classic Space Logo*
+
+- ### Slope 30 1 x 3 x 2/3
+
+- ### Slope 30 1 x 4 x 2/3
+
+- ### Slope 33 3 x 1
+
+- ### Slope 33 3 x 2
+
+- ### Slope 33 3 x 3
+
+- ### Slope 33 3 x 4
 
 - ### Slope 33 3 x 6 with Inner Walls
  
@@ -107,10 +125,14 @@
 
 - ### Slope 45 2 x 2 Inverted with Flat Bottom Pin
 
-    - 3060eb001 - *Computer Screen and Left Side Buttons*
-    - 3060eb002 - *Computer Screen and Right Side Buttons*
-    - 3060eb003 - *Computer Panel and Left Side Target*
-    - 3060eb004 - *Computer Panel and Right Side Target*
+    - 3660eb001 - *Computer Screen and Left Side Buttons*
+    - 3660eb002 - *Computer Screen and Right Side Buttons*
+    - 3660eb003 - *Computer Panel and Left Side Target*
+    - 3660eb004 - *Computer Panel and Right Side Target*
+
+- ### Slope 45 2 x 3
+
+- ### Slope 45 2 x 4
 
 # Tiles
 
