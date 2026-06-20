@@ -8,8 +8,8 @@
 0 PE_TEX_PATH -1
 
 0 // ANGLE: 90° from horizontal / 0° from vertical
-0 // FLAT DIMENSIONS (W x L x H): 2 x 0 x 1.2 in studs (1 Stud = 400px)
-0 // IMAGE SIZE (W x H): 800px x 480px
+0 // FLAT DIMENSIONS (W x L x H): 3 x 0 x 1.2 in studs (1 Stud = 400px)
+0 // IMAGE SIZE (W x H): 1200px x 480px
 
 0 // PE_TEX_INFO 0.0000 12.0000 19.1000 -60.2000 0.0000 0.0000 0.0000 0.0000 -24.2000 0.0000 -2.2000 0.0000 -30.0000 12.0000 30.0000 -12.0000 [BASE64]
 
