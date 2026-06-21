@@ -1,0 +1,26 @@
+0 Flag 7 x 3 with Bar Handle
+0 Name: 30292eb000.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 // NOTE: Due to unconventional part orientation (front face points down),
+0 // the right side uses the Left Face formula and the left side uses the Right Face formula.
+
+0 BFC CERTIFY CCW
+
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s\30292ebs01.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s\30292ebs02.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 s\30292ebs03.dat
+
+0 // NOTE: After importing this into Studio replace the 1-8cylo.dat lines with the following to fix the shading:
+0 // 
+0 // 0 BFC INVERTNEXT
+0 // 1 16 8.0000 -30.0000 9.2100 -6.0000 0.0000 0.0000 0.0000 6.0000 0.0000 0.0000 0.0000 -6.0000 1-8cylo.dat
+0 // 0 BFC INVERTNEXT
+0 // 1 16 8.0000 24.0000 9.2100 -6.0000 0.0000 0.0000 0.0000 6.0000 0.0000 0.0000 0.0000 -6.0000 1-8cylo.dat
+0 // 
+0 // 0 BFC INVERTNEXT
+0 // 1 16 -8.0000 30.0000 9.2100 6.0000 0.0000 0.0000 0.0000 -6.0000 0.0000 0.0000 0.0000 -6.0000 1-8cylo.dat
+0 // 0 BFC INVERTNEXT
+0 // 1 16 -8.0000 -24.0000 9.2100 6.0000 0.0000 0.0000 0.0000 -6.0000 0.0000 0.0000 0.0000 -6.0000 1-8cylo.dat

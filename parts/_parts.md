@@ -3,8 +3,11 @@
 
 - ### Brick 1 x 1
 
+    - 3005eb000 - *No Decal* 
+
 - ### Brick 1 x 2
 
+    - 3004eb000 - *No Decal* 
     - 3004eb001 - *White Down Arrow*
     - 3004eb002 - *White Left Arrow*
     - 3004eb003 - *White Right Arrow*
@@ -17,51 +20,64 @@
 
 - ### Brick 1 x 3
 
+    - 3622eb000 - *No Decal* 
     - 3622eb001 - *Green and Red 'Octan'*
 
 - ### Brick 1 x 4
 
-    - 3004eb001 - *Black Legoland Logo*
-    - 3004eb002 - *White Legoland Logo*
-    - 3004eb003 - *Red 'Shell' and Logo on Left Side*
-    - 3004eb004 - *Red 'Shell' and Logo on Right Side*
-    - 3004eb005 - *Green and Red 'Octan' and Logo on Left Side*
-    - 3004eb006 - *Green and Red 'Octan' and Logo on Right Side*
-    - 3004eb007 - *White 'LL 487'*
-    - 3004eb008 - *White 'LL 497'*
-    - 3004eb009 - *White 'LL 918'*
-    - 3004eb010 - *White 'LL 924'*
-    - 3004eb011 - *White 'LL 928'*
-    - 3004eb012 - *Black Grille*
-    - 3004eb013 - *White Grille*
-    - 3004eb014 - *Yellow Grille*
+    - 3010eb000 - *No Decal* 
+    - 3010eb001 - *Black Legoland Logo*
+    - 3010eb002 - *White Legoland Logo*
+    - 3010eb003 - *Red 'Shell' and Logo on Left Side*
+    - 3010eb004 - *Red 'Shell' and Logo on Right Side*
+    - 3010eb005 - *Green and Red 'Octan' and Logo on Left Side*
+    - 3010eb006 - *Green and Red 'Octan' and Logo on Right Side*
+    - 3010eb007 - *White 'LL 487'*
+    - 3010eb008 - *White 'LL 497'*
+    - 3010eb009 - *White 'LL 918'*
+    - 3010eb010 - *White 'LL 924'*
+    - 3010eb011 - *White 'LL 928'*
+    - 3010eb012 - *Black Grille*
+    - 3010eb013 - *White Grille*
+    - 3010eb014 - *Yellow Grille*
 
 
 - ### Brick 1 x 6
 
+    - 6636eb000 - *No Decal* 
+
 - ### Brick 2 x 2
+
+    - 3003eb000 - *No Decal* 
 
 - ### Brick 2 x 3
 
-    - 3002eb001 - *White Up Arrow on One End*
-    - 3002eb002 - *White Up Arrow on One End*
-    - 3002eb003 - *White Up Arrow on One End*
+    - 3002eb000 - *No Decal* 
+    - 3002eb001 - *White Down Arrow on One End*
+    - 3002eb002 - *White Left Arrow on One End*
+    - 3002eb003 - *White Right Arrow on One End*
     - 3002eb004 - *White Up Arrow on One End*
 
 - ### Brick 2 x 4
 
+    - 3001eb000 - *No Decal* 
+
 - ### Brick 2 x 6
+
+    - 2456eb000 - *No Decal* 
 
 # Containers
 
 - ### Container, Box 2 x 2 x 2 Door with Slot
 
+    - 4346eb000 - *No Decal* 
     - 4346eb001 - *Blacktron I Logo Facing Forward*
 
 # Flags
 
 - ### Flag 7 x 3 with Bar Handle
 
+    - 30292eb000 - *No Decal* 
     - 30292eb001 - *Blacktron I Logo*
 
 # Slopes
@@ -70,44 +86,62 @@
 
 - ### Slope 18 4 x 2
 
+    - 30363eb000 - *No Decal* 
+
 - ### Slope 30 1 x 1 x 2/3
 
+    - 54200eb000 - *No Decal* 
+
 - ### Slope 30 1 x 2 x 2/3
- 
+
+    - 85984eb000 - *No Decal* 
     - 85984eb001 - *Classic Space Logo*
 
 - ### Slope 30 1 x 3 x 2/3
 
+    - 7825eb000 - *No Decal* 
+
 - ### Slope 30 1 x 4 x 2/3
+
+    - 7835eb000 - *No Decal* 
 
 - ### Slope 33 3 x 1
 
 - ### Slope 33 3 x 2
+
+    - 3298eb000 - *No Decal*
 
 - ### Slope 33 3 x 3
 
 - ### Slope 33 3 x 4
 
 - ### Slope 33 3 x 6 with Inner Walls
- 
+
+    - 3939eb000 - *No Decal* 
     - 3939eb001 - *Large Classic Space Logo*
     - 3939eb002 - *Medium Classic Space Logo*
     - 3939eb003 - *Small Classic Space Logo*
     - 3939eb004 - *M:Tron Logo*
 
 - ### Slope 45 2 x 1
- 
-    - 3039eb001 - *3 Buttons, 3 Red Lamps on Left Side, and Black Background*
-    - 3039eb002 - *3 Buttons, 3 Red Lamps on Right Side, and Black Background*
-    - 3039eb003 - *3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
-    - 3039eb004 - *3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
-    - 3039eb005 - *3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
-    - 3039eb006 - *3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
-    - 3039eb007 - *2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
-    - 3039eb008 - *2 Buttons, 2 Red Lamps, and Yellow Background*
+
+    - 3040eb000 - *No Decal* 
+    - 3040eb001 - *3 Buttons, 3 Red Lamps on Left Side, and Black Background*
+    - 3040eb002 - *3 Buttons, 3 Red Lamps on Right Side, and Black Background*
+    - 3040eb003 - *3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
+    - 3040eb004 - *3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
+    - 3040eb005 - *3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
+    - 3040eb006 - *3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
+    - 3040eb007 - *2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
+    - 3040eb008 - *2 Buttons, 2 Red Lamps, and Yellow Background*
+
+- ### Slope 45 2 x 1 without Bottom Tube
+
+    - 3040aeb000 - *No Decal*
 
 - ### Slope 45 2 x 2
 
+    - 3039eb000 - *No Decal*
     - 3039eb001 - *Computer Screen and Left Side Buttons*
     - 3039eb002 - *Computer Screen and Right Side Buttons*
     - 3039eb003 - *Computer Panel and Left Side Target*
@@ -125,27 +159,50 @@
 
 - ### Slope 45 2 x 2 Inverted with Flat Bottom Pin
 
+    - 3660eb000 - *No Decal*
     - 3660eb001 - *Computer Screen and Left Side Buttons*
     - 3660eb002 - *Computer Screen and Right Side Buttons*
     - 3660eb003 - *Computer Panel and Left Side Target*
     - 3660eb004 - *Computer Panel and Right Side Target*
 
+- ### Slope 45 2 x 2 Inverted with Bottom Tube
+
+    - 3660aeb000 - *No Decal*
+
 - ### Slope 45 2 x 3
+
+    - 3038eb000 - *No Decal*
 
 - ### Slope 45 2 x 4
 
+    - 3037eb000 - *No Decal*
+
 # Tiles
 
-- ### Tile 2 x 2
+- ### Tile 1 x 4 with Groove
 
+    - 2431eb000 - *No Decal*
+
+- ### Tile 1 x 6 with Groove
+
+    - 6636eb000 - *No Decal*
+
+- ### Tile 2 x 2 with Groove
+
+    - 3068eb000 - *No Decal*
     - 3068eb001 - *Large Classic Fire Logo*
     - 3068eb002 - *Small Classic Fire Logo*
     - 3068eb003 - *16 Buttons, 4 Red Lamps, and Black Background*
     - 3068eb004 - *16 Buttons, 4 Red Lamps, and Yellow Background*
     - 3068eb005 - *16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
 
+- ### Tile 2 x 2 without Groove
+
+    - 3068aeb000 - *No Decal*
+
 # Wedges
 
 - ### Tile 2 x 2
 
+    - 93348eb000 - *No Decal*
     - 93348eb001 - *Blacktron I Logo*
