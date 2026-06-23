@@ -1,0 +1,36 @@
+0 ~Slope 45 2 x 2 Inverted - Hollow Bottom Tube
+0 Name: s\76959ebs06.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 BFC INVERTNEXT
+1 16   0 14 -7 -16 0 0 0 0 -10 0 13 0 box4-2p.dat
+1 16  10 14 -7  -1 0 0 0 0  10 0  1 0 box4-2p.dat
+1 16   0 14 -7  -1 0 0 0 0  10 0  1 0 box4-2p.dat
+1 16 -10 14 -7   1 0 0 0 0  10 0  1 0 box4-2p.dat
+
+1 16 -13.5 14 -7 -2.5 0 0 0 0 10 0 -1 0 rect2p.dat
+1 16  -5.0 14 -7 -4.0 0 0 0 0 10 0 -1 0 rect2p.dat
+1 16   5.0 14 -7 -4.0 0 0 0 0 10 0 -1 0 rect2p.dat
+1 16  13.5 14 -7 -2.5 0 0 0 0 10 0 -1 0 rect2p.dat
+
+4 16 -16 24   6 -16 24  -7 -20 24 -10 -20 24  10
+4 16  16 24  -7  16 24   6  20 24  10  20 24 -10
+4 16  20 24 -10 -20 24 -10 -16 24  -7  16 24  -7
+
+1 16 0  4 0 1.5 0 0 0 1 0 0 0 1.5 4-4edge.dat
+1 16 0  4 0 4   0 0 0 1 0 0 0 4   4-4edge.dat
+1 16 0 24 0 1.5 0 0 0 1 0 0 0 1.5 4-4edge.dat
+1 16 0 24 0 4   0 0 0 1 0 0 0 4   4-4edge.dat
+
+0 BFC INVERTNEXT
+1 16 0 4 0 1.5 0 0 0 20 0 0 0 1.5 4-4cyli.dat
+1 16 0 4 0 4   0 0 0 20 0 0 0 4   4-4cyli.dat
+
+0 BFC INVERTNEXT
+1 16 0 24 0 1.5 0 0 0 1 0 0 0 1.5 ring1.dat
+0 BFC INVERTNEXT
+1 16 0 24 0 1   0 0 0 1 0 0 0 1   ring3.dat
