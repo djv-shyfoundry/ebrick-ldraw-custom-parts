@@ -18,10 +18,11 @@
     - 3004eb008 - *With White Grille*
     - 3004eb009 - *With Yellow Grille*
 
-<!-- - ### Brick 1 x 3
+- ### Brick 1 x 3
 
-    - 3622eb000 - *No Decal* 
-    - 3622eb001 - *Green and Red 'Octan'* -->
+    - 3622ebtmp - *Template* 
+    - 3622eb001 - *With Green and Red 'Octan'*
+    - 3622eb002 - *With Red 'Shell'*
 
 <!-- - ### Brick 1 x 4
 
