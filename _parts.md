@@ -5,18 +5,18 @@
 
     - 3005ebtmp - *Template* 
 
-<!-- - ### Brick 1 x 2
+- ### Brick 1 x 2
 
-    - 3004eb000 - *No Decal* 
-    - 3004eb001 - *White Down Arrow*
-    - 3004eb002 - *White Left Arrow*
-    - 3004eb003 - *White Right Arrow*
-    - 3004eb004 - *White Up Arrow*
-    - 3004eb005 - *Classic Fire Logo*
-    - 3004eb006 - *Classic Space Logo*
-    - 3004eb007 - *Black Grille*
-    - 3004eb008 - *White Grille*
-    - 3004eb009 - *Yellow Grille* -->
+    - 3004ebtmp - *Template* 
+    - 3004eb001 - *With White Down Arrow*
+    - 3004eb002 - *With White Left Arrow*
+    - 3004eb003 - *With White Right Arrow*
+    - 3004eb004 - *With White Up Arrow*
+    - 3004eb005 - *With Classic Fire Logo*
+    - 3004eb006 - *With Classic Space Logo*
+    - 3004eb007 - *With Black Grille*
+    - 3004eb008 - *With White Grille*
+    - 3004eb009 - *With Yellow Grille*
 
 <!-- - ### Brick 1 x 3
 
