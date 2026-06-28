@@ -43,9 +43,14 @@
     - 3010eb014 - *With Yellow Grille*
 
 
-<!-- - ### Brick 1 x 6
+- ### Brick 1 x 6
 
-    - 6636eb000 - *No Decal*  -->
+    - 6636ebtmp - *Template*
+    - 6636eb001 - *With White 'LL 487'*
+    - 6636eb002 - *With White 'LL 497'*
+    - 6636eb003 - *With White 'LL 918'*
+    - 6636eb004 - *With White 'LL 924'*
+    - 6636eb005 - *With White 'LL 928'*
 
 <!-- - ### Brick 2 x 2
 
