@@ -24,23 +24,23 @@
     - 3622eb001 - *With Green and Red 'Octan'*
     - 3622eb002 - *With Red 'Shell'*
 
-<!-- - ### Brick 1 x 4
+- ### Brick 1 x 4
 
-    - 3010eb000 - *No Decal* 
-    - 3010eb001 - *Black Legoland Logo*
-    - 3010eb002 - *White Legoland Logo*
-    - 3010eb003 - *Red 'Shell' and Logo on Left Side*
-    - 3010eb004 - *Red 'Shell' and Logo on Right Side*
-    - 3010eb005 - *Green and Red 'Octan' and Logo on Left Side*
-    - 3010eb006 - *Green and Red 'Octan' and Logo on Right Side*
-    - 3010eb007 - *White 'LL 487'*
-    - 3010eb008 - *White 'LL 497'*
-    - 3010eb009 - *White 'LL 918'*
-    - 3010eb010 - *White 'LL 924'*
-    - 3010eb011 - *White 'LL 928'*
-    - 3010eb012 - *Black Grille*
-    - 3010eb013 - *White Grille*
-    - 3010eb014 - *Yellow Grille* -->
+    - 3010ebtmp - *Template* 
+    - 3010eb001 - *With Black Legoland Logo*
+    - 3010eb002 - *With White Legoland Logo*
+    - 3010eb003 - *With Red 'Shell' and Logo on Left Side*
+    - 3010eb004 - *With Red 'Shell' and Logo on Right Side*
+    - 3010eb005 - *With Green and Red 'Octan' and Logo on Left Side*
+    - 3010eb006 - *With Green and Red 'Octan' and Logo on Right Side*
+    - 3010eb007 - *With White 'LL 487'*
+    - 3010eb008 - *With White 'LL 497'*
+    - 3010eb009 - *With White 'LL 918'*
+    - 3010eb010 - *With White 'LL 924'*
+    - 3010eb011 - *With White 'LL 928'*
+    - 3010eb012 - *With Black Grille*
+    - 3010eb013 - *With White Grille*
+    - 3010eb014 - *With Yellow Grille*
 
 
 <!-- - ### Brick 1 x 6
