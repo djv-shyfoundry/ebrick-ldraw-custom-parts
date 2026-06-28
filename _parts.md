@@ -45,39 +45,41 @@
 
 - ### Brick 1 x 6
 
-    - 6636ebtmp - *Template*
-    - 6636eb001 - *With White 'LL 487'*
-    - 6636eb002 - *With White 'LL 497'*
-    - 6636eb003 - *With White 'LL 918'*
-    - 6636eb004 - *With White 'LL 924'*
-    - 6636eb005 - *With White 'LL 928'*
+    - 3009ebtmp - *Template*
+    - 3009eb001 - *With White 'LL 487'*
+    - 3009eb002 - *With White 'LL 497'*
+    - 3009eb003 - *With White 'LL 918'*
+    - 3009eb004 - *With White 'LL 924'*
+    - 3009eb005 - *With White 'LL 928'*
 
-<!-- - ### Brick 2 x 2
+- ### Brick 2 x 2
 
-    - 3003eb000 - *No Decal*  -->
+    - 3003ebtmp - *Template*
+    - 3003eb001 - *With White 1960 LEGO Logo and Black Outline*
+    - 3003eb002 - *With White 1973 LEGO Logo and Black Outline*
 
-<!-- - ### Brick 2 x 3
+- ### Brick 2 x 3
 
-    - 3002eb000 - *No Decal* 
+    - 3002ebtmp - *Template*
     - 3002eb001 - *White Down Arrow on One End*
     - 3002eb002 - *White Left Arrow on One End*
     - 3002eb003 - *White Right Arrow on One End*
-    - 3002eb004 - *White Up Arrow on One End* -->
+    - 3002eb004 - *White Up Arrow on One End*
 
-<!-- - ### Brick 2 x 4
+- ### Brick 2 x 4
 
-    - 3001eb000 - *No Decal*  -->
+    - 3001ebtmp - *Template*
 
-<!-- - ### Brick 2 x 6
+- ### Brick 2 x 6
 
-    - 2456eb000 - *No Decal*  -->
+    - 2456ebtmp - *Template*
 
-<!-- # Containers -->
+# Containers
 
-<!-- - ### Container, Box 2 x 2 x 2 Door with Slot
+- ### Container, Box 2 x 2 x 2 Door with Slot
 
-    - 4346eb000 - *No Decal* 
-    - 4346eb001 - *Blacktron I Logo Facing Forward* -->
+    - 4346ebtmp - *Template*
+    - 4346eb001 - *With Blacktron I Logo*
 
 <!-- # Flags -->
 
