@@ -94,26 +94,26 @@
 
 - ### Slope 18 4 x 2
 
-    - 30363ebtmp - *Template* 
-    - 30363eb000 - *Without Roof Texture* 
-    - 30363eb001 - *With Classic Space Logo* 
+    - 30363ebtmp - *Template*
+    - 30363eb000 - *Without Roof Texture*
+    - 30363eb001 - *With Classic Space Logo*
 
-<!-- - ### Slope 30 1 x 1 x 2/3
+- ### Slope 30 1 x 1 x 2/3
 
-    - 54200eb000 - *No Decal*  -->
+    - 54200ebtmp - *Template*
 
-<!-- - ### Slope 30 1 x 2 x 2/3
+- ### Slope 30 1 x 2 x 2/3
 
-    - 85984eb000 - *No Decal* 
-    - 85984eb001 - *Classic Space Logo* -->
+    - 85984ebtmp - *Template*
+    - 85984eb001 - *Classic Space Logo*
 
-<!-- - ### Slope 30 1 x 3 x 2/3
+- ### Slope 30 1 x 3 x 2/3
 
-    - 7825eb000 - *No Decal*  -->
+    - 7825ebtmp - *Template*
 
-<!-- - ### Slope 30 1 x 4 x 2/3
+- ### Slope 30 1 x 4 x 2/3
 
-    - 7835eb000 - *No Decal*  -->
+    - 7835ebtmp - *Template*
 
 <!-- - ### Slope 33 3 x 1 -->
 
