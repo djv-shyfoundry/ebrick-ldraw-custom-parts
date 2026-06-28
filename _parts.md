@@ -79,14 +79,14 @@
 - ### Container, Box 2 x 2 x 2 Door with Slot
 
     - 4346ebtmp - *Template*
-    - 4346eb001 - *With Blacktron I Logo*
+    - 4346eb001 - *With Blacktron I Logo Facing Down*
 
-<!-- # Flags -->
+# Flags
 
-<!-- - ### Flag 7 x 3 with Bar Handle
+- ### Flag 7 x 3 with Bar Handle
 
     - 30292eb000 - *No Decal* 
-    - 30292eb001 - *Blacktron I Logo* -->
+    - 30292eb001 - *Blacktron I Logo Facing Forward*
 
 # Slopes
 
