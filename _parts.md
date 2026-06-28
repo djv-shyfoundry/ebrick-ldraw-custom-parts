@@ -85,8 +85,8 @@
 
 - ### Flag 7 x 3 with Bar Handle
 
-    - 30292eb000 - *No Decal* 
-    - 30292eb001 - *Blacktron I Logo Facing Forward*
+    - 30292ebtmp - *Template*
+    - 30292eb001 - *With Blacktron I Logo Facing Forward*
 
 # Slopes
 
