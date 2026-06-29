@@ -1,0 +1,14 @@
+0 ~Slope 18 4 x 1 - Back Face
+0 Name: s\60477ebs03.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // ANGLE: 90° from horizontal / 0° from vertical
+0 // ABSOLUTE POSITION (W x L x H): 0 x 0 x 0.6
+0 // DIMENSIONS (W x L x H): 1 x 0 x 1.2 in studs (1 Stud = 400px)
+0 // IMAGE SIZE (W x H): 400px x 480px
+
+4 16 10.0000 24.0000 10.0000 -10.0000 24.0000 10.0000 -10.0000 0.0000 10.0000 10.0000 0.0000 10.0000

@@ -90,13 +90,17 @@
 
 # Slopes
 
-<!-- - ### Slope 18 4 x 1 -->
+- ### Slope 18 4 x 1
+    - 60477ebtmp - *Template*
+    - 60477eb000 - *Without Roof Texture*
 
 - ### Slope 18 4 x 2
 
     - 30363ebtmp - *Template*
     - 30363eb000 - *Without Roof Texture*
     - 30363eb001 - *With Classic Space Logo*
+    - 30363eb002 - *With Blacktron I Logo Facing Forward*
+    - 30363eb003 - *With Blacktron I Logo Facing Backward*
 
 - ### Slope 30 1 x 1 x 2/3
 
