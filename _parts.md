@@ -105,7 +105,7 @@
 - ### Slope 30 1 x 2 x 2/3
 
     - 85984ebtmp - *Template*
-    - 85984eb001 - *Classic Space Logo*
+    - 85984eb001 - *With Classic Space Logo*
 
 - ### Slope 30 1 x 3 x 2/3
 
