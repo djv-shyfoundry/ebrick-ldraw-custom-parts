@@ -115,6 +115,10 @@
 
     - 7835ebtmp - *Template*
 
+- ### Slope 30 1 x 6 x 2/3
+
+    - 7845ebtmp - *Template*
+
 <!-- - ### Slope 33 3 x 1 -->
 
 <!-- - ### Slope 33 3 x 2
