@@ -115,9 +115,10 @@
 
     - 7835ebtmp - *Template*
 
-- ### Slope 30 1 x 6 x 2/3
+- ### Slope 30 1 x 6 x 2/3 (Custom Part)
 
     - 7845ebtmp - *Template*
+    - 7845eb000 - *No Decal*
 
 <!-- - ### Slope 33 3 x 1 -->
 
