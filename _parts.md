@@ -131,7 +131,10 @@
     - 7825ebtmp - *Template*
     - 7825eb000 - *Without Roof Texture*
 
-<!-- - ### Slope 33 3 x 3 -->
+- ### Slope 33 3 x 3
+
+    - 4161ebtmp - *Template*
+    - 4161eb000 - *Without Roof Texture*
 
 <!-- - ### Slope 33 3 x 4 -->
 
