@@ -126,9 +126,10 @@
 
 <!-- - ### Slope 33 3 x 1 -->
 
-<!-- - ### Slope 33 3 x 2
+- ### Slope 33 3 x 2
 
-    - 3298eb000 - *No Decal* -->
+    - 7825ebtmp - *Template*
+    - 7825eb000 - *Without Roof Texture*
 
 <!-- - ### Slope 33 3 x 3 -->
 
