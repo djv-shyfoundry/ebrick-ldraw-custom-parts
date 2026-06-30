@@ -1,4 +1,4 @@
-0 ~Slope 33 3 x 2 - Front Face
+0 ~Slope 33 3 x 1 - Front Face
 0 Name: s\4286ebs02.dat
 0 Author: Emmet Brickowski [EBrick]
 0 !LDRAW_ORG Unofficial_Subpart
@@ -8,7 +8,7 @@
 
 0 // ANGLE: 26.57° from horizontal / 63.43° from vertical
 0 // ABSOLUTE POSITION (W x L x H): 0 x 0 x 0.5
-0 // FLAT DIMENSIONS (W x L x H): 2 x 2.236 x 0 in studs (1 Stud = 400px)
+0 // FLAT DIMENSIONS (W x L x H): 1 x 2.236 x 0 in studs (1 Stud = 400px)
 0 // IMAGE SIZE (W x H): 400px x 894px
 
 4 16 10.0000 20.0000 -50.0000 10.0000 0.0000 -10.0000 -10.0000 0.0000 -10.0000 -10.0000 20.0000 -50.0000
