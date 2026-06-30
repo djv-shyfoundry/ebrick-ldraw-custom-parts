@@ -124,7 +124,10 @@
     - 7845ebtmp - *Template*
     - 7845eb000 - *No Decal*
 
-<!-- - ### Slope 33 3 x 1 -->
+- ### Slope 33 3 x 1
+
+    - 4286ebtmp - *Template*
+    - 4286eb000 - *Without Roof Texture*
 
 - ### Slope 33 3 x 2
 
@@ -140,6 +143,7 @@
 
     - 3297ebtmp - *Template*
     - 3297eb000 - *Without Roof Texture*
+    - 3297eb001 - *With Classic Space Logo*
 
 <!-- - ### Slope 33 3 x 6 with Inner Walls
 
