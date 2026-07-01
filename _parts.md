@@ -8,10 +8,10 @@
 - ### Brick 1 x 2
 
     - 3004ebtmp - *Template* 
-    - 3004eb001 - *With White Down Arrow*
-    - 3004eb002 - *With White Left Arrow*
-    - 3004eb003 - *With White Right Arrow*
-    - 3004eb004 - *With White Up Arrow*
+    - 3004eb001 - *With White Chevron Down Arrow*
+    - 3004eb002 - *With White Chevron Left Arrow*
+    - 3004eb003 - *With White Chevron Right Arrow*
+    - 3004eb004 - *With White Chevron Up Arrow*
     - 3004eb005 - *With Classic Fire Logo*
     - 3004eb006 - *With Classic Space Logo*
     - 3004eb007 - *With Black Grille*
@@ -61,10 +61,10 @@
 - ### Brick 2 x 3
 
     - 3002ebtmp - *Template*
-    - 3002eb001 - *White Down Arrow on One End*
-    - 3002eb002 - *White Left Arrow on One End*
-    - 3002eb003 - *White Right Arrow on One End*
-    - 3002eb004 - *White Up Arrow on One End*
+    - 3002eb001 - *White Cheveron Down Arrow on One End*
+    - 3002eb002 - *White Cheveron Left Arrow on One End*
+    - 3002eb003 - *White Cheveron Right Arrow on One End*
+    - 3002eb004 - *White Cheveron Up Arrow on One End*
 
 - ### Brick 2 x 4
 
@@ -169,23 +169,24 @@
 
     - 3040aeb000 - *No Decal* -->
 
-<!-- - ### Slope 45 2 x 2
+- ### Slope 45 2 x 2
 
-    - 3039eb000 - *No Decal*
-    - 3039eb001 - *Computer Screen and Left Side Buttons*
-    - 3039eb002 - *Computer Screen and Right Side Buttons*
-    - 3039eb003 - *Computer Panel and Left Side Target*
-    - 3039eb004 - *Computer Panel and Right Side Target*
-    - 3039eb005 - *12 Buttons, 3 Red Lamps on Left Side, and Black Background*
-    - 3039eb006 - *12 Buttons, 3 Red Lamps on Right Side, and Black Background*
-    - 3039eb007 - *12 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
-    - 3039eb008 - *12 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
-    - 3039eb009 - *12 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
-    - 3039eb010 - *12 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
-    - 3039eb011 - *Targeting Panel, 3 Buttons, 3 Red Lamps, and Yellow Background*
-    - 3039eb012 - *Black Grille*
-    - 3039eb013 - *White Grille*
-    - 3039eb014 - *Yellow Grille* -->
+    - 3039ebtmp - *Template*
+    - 3039eb000 - *Without Roof Texture*
+    - 3039eb001 - *With Computer Screen and Left Side Buttons*
+    - 3039eb002 - *With Computer Screen and Right Side Buttons*
+    - 3039eb003 - *With Computer Panel and Left Side Target*
+    - 3039eb004 - *With Computer Panel and Right Side Target*
+    - 3039eb005 - *With 12 Buttons, 3 Red Lamps on Left Side, and Black Background*
+    - 3039eb006 - *With 12 Buttons, 3 Red Lamps on Right Side, and Black Background*
+    - 3039eb007 - *With 12 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
+    - 3039eb008 - *With 12 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
+    - 3039eb009 - *With 12 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
+    - 3039eb010 - *With 12 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
+    - 3039eb011 - *With Targeting Panel, 3 Buttons, 3 Red Lamps, and Yellow Background*
+    - 3039eb012 - *With Black Grille*
+    - 3039eb013 - *With White Grille*
+    - 3039eb014 - *With Yellow Grille*
 
 <!-- - ### Slope 45 2 x 2 Inverted with Flat Bottom Pin
 
