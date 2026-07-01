@@ -145,13 +145,13 @@
     - 3297eb000 - *Without Roof Texture*
     - 3297eb001 - *With Classic Space Logo*
 
-<!-- - ### Slope 33 3 x 6 with Inner Walls
+- ### Slope 33 3 x 6 with Inner Walls
 
-    - 3939eb000 - *No Decal* 
-    - 3939eb001 - *Large Classic Space Logo*
-    - 3939eb002 - *Medium Classic Space Logo*
-    - 3939eb003 - *Small Classic Space Logo*
-    - 3939eb004 - *M:Tron Logo* -->
+    - 3939ebtmp - *Template*
+    - 3939eb001 - *With Large Classic Space Logo*
+    - 3939eb002 - *With Medium Classic Space Logo*
+    - 3939eb003 - *With Small Classic Space Logo*
+    - 3939eb004 - *With M:Tron Logo*
 
 <!-- - ### Slope 45 2 x 1
 
