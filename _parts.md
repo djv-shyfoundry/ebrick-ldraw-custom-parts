@@ -153,17 +153,18 @@
     - 3939eb003 - *With Small Classic Space Logo*
     - 3939eb004 - *With M:Tron Logo*
 
-<!-- - ### Slope 45 2 x 1
+- ### Slope 45 2 x 1
 
-    - 3040eb000 - *No Decal* 
-    - 3040eb001 - *3 Buttons, 3 Red Lamps on Left Side, and Black Background*
-    - 3040eb002 - *3 Buttons, 3 Red Lamps on Right Side, and Black Background*
-    - 3040eb003 - *3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
-    - 3040eb004 - *3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
-    - 3040eb005 - *3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
-    - 3040eb006 - *3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
-    - 3040eb007 - *2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
-    - 3040eb008 - *2 Buttons, 2 Red Lamps, and Yellow Background* -->
+    - 3040ebtmp - *Template*
+    - 3040eb000 - *Without Roof Texture*
+    - 3040eb001 - *With 3 Buttons, 3 Red Lamps on Left Side, and Black Background*
+    - 3040eb002 - *With 3 Buttons, 3 Red Lamps on Right Side, and Black Background*
+    - 3040eb003 - *With 3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
+    - 3040eb004 - *With 3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
+    - 3040eb005 - *With 3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
+    - 3040eb006 - *With 3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
+    - 3040eb007 - *With 2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
+    - 3040eb008 - *With 2 Buttons, 2 Red Lamps, and Yellow Background*
 
 <!-- - ### Slope 45 2 x 1 without Bottom Tube
 
