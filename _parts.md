@@ -201,13 +201,15 @@
 
     - 3660aeb000 - *No Decal* -->
 
-<!-- - ### Slope 45 2 x 3
+- ### Slope 45 2 x 3
 
-    - 3038eb000 - *No Decal* -->
+    - 3038ebtmp - *Template*
+    - 3038eb000 - *Without Roof Texture*
 
-<!-- - ### Slope 45 2 x 4
+- ### Slope 45 2 x 4
 
-    - 3037eb000 - *No Decal* -->
+    - 3037ebtmp - *Template*
+    - 3037eb000 - *Without Roof Texture*
 
 <!-- # Tiles -->
 
