@@ -8,10 +8,10 @@
 - ### Brick 1 x 2
 
     - 3004ebtmp - *Template* 
-    - 3004eb001 - *With White Chevron Down Arrow*
-    - 3004eb002 - *With White Chevron Left Arrow*
-    - 3004eb003 - *With White Chevron Right Arrow*
-    - 3004eb004 - *With White Chevron Up Arrow*
+    - 3004eb001 - *With White Chevron Arrow Facing Down*
+    - 3004eb002 - *With White Chevron Arrow Facing Left*
+    - 3004eb003 - *With White Chevron Arrow Facing Right*
+    - 3004eb004 - *With White Chevron Arrow Facing Up*
     - 3004eb005 - *With Classic Fire Logo*
     - 3004eb006 - *With Classic Space Logo*
     - 3004eb007 - *With Black Grille*
@@ -61,10 +61,10 @@
 - ### Brick 2 x 3
 
     - 3002ebtmp - *Template*
-    - 3002eb001 - *White Cheveron Down Arrow on One End*
-    - 3002eb002 - *White Cheveron Left Arrow on One End*
-    - 3002eb003 - *White Cheveron Right Arrow on One End*
-    - 3002eb004 - *White Cheveron Up Arrow on One End*
+    - 3002eb001 - *With White Chevron Arrow Facing Down on End*
+    - 3002eb002 - *With White Chevron Arrow Facing Left on End*
+    - 3002eb003 - *With White Chevron Arrow Facing Right on End*
+    - 3002eb004 - *With White Chevron Arrow Facing Up on End*
 
 - ### Brick 2 x 4
 
