@@ -1,0 +1,11 @@
+0 ~Slope 45 2 x 2, Inverted - Hollow Stud
+0 Name: s\3660ebs08.dat
+0 Author: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 1.0000 0.0000  0.0000 0.0000 1.0000 stud2a.dat
+1 16 0.0000 0.0000 0.0000 1.0000 0.0000 0.0000 0.0000 4.0000 0.0000  0.0000 0.0000 1.0000 stud2s2e.dat
+1 16 0.0000 4.0000 0.0000 0.0000 0.0000 1.0000 0.0000 6.0000 0.0000 -1.0000 0.0000 0.0000 stud2s2.dat

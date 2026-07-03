@@ -201,6 +201,11 @@
 
     - 3660aeb000 - *No Decal* -->
 
+- ### Slope 45 2 x 2, Inverted with Hollow Pin
+
+    - 76959ebtmp - *Template*
+    - 76959eb000 - *Without Roof Texture*
+
 - ### Slope 45 2 x 3
 
     - 3038ebtmp - *Template*
