@@ -236,7 +236,8 @@
 
 <!-- # Wedges -->
 
-<!-- - ### Tile 2 x 2
+- ### Wedge 4 x 4 with Stud Notches
 
-    - 93348eb000 - *No Decal*
-    - 93348eb001 - *Blacktron I Logo* -->
+    - 93348ebtmp - *Template*
+    - 93348eb001 - *With Blacktron I Logo Facing Forward*
+    
