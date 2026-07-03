@@ -234,10 +234,11 @@
 
     - 3068aeb000 - *No Decal* -->
 
-<!-- # Wedges -->
+# Wedges
 
 - ### Wedge 4 x 4 with Stud Notches
 
     - 93348ebtmp - *Template*
+    - 93348eb000 - *Without Roof Texture*
     - 93348eb001 - *With Blacktron I Logo Facing Forward*
     
