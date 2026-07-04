@@ -189,22 +189,22 @@
     - 3039eb013 - *With White Grille*
     - 3039eb014 - *With Yellow Grille*
 
-<!-- - ### Slope 45 2 x 2 Inverted with Flat Bottom Pin
+- ### Slope 45 2 x 2, Inverted with Bottom Pin
 
-    - 3660eb000 - *No Decal*
-    - 3660eb001 - *Computer Screen and Left Side Buttons*
-    - 3660eb002 - *Computer Screen and Right Side Buttons*
-    - 3660eb003 - *Computer Panel and Left Side Target*
-    - 3660eb004 - *Computer Panel and Right Side Target* -->
+    - 3660eb000a - *Template*
 
-<!-- - ### Slope 45 2 x 2 Inverted with Bottom Tube
+- ### Slope 45 2 x 2, Inverted with Flat Bottom Pin
 
-    - 3660aeb000 - *No Decal* -->
+    - 3660eb000b - *Template*
 
-- ### Slope 45 2 x 2, Inverted with Hollow Pin
+- ### Slope 45 2 x 2, Inverted with Hollow Bottom Pin
 
     - 76959ebtmp - *Template*
     - 76959eb000 - *Without Roof Texture*
+    - 76959eb001 - *With Computer Screen and Left Side Buttons*
+    - 76959eb002 - *With Computer Screen and Right Side Buttons*
+    - 76959eb003 - *With Computer Panel and Left Side Target*
+    - 76959eb004 - *With Computer Panel and Right Side Target*
 
 - ### Slope 45 2 x 3
 
@@ -246,4 +246,3 @@
     - 93348ebtmp - *Template*
     - 93348eb000 - *Without Roof Texture*
     - 93348eb001 - *With Blacktron I Logo Facing Forward*
-    
