@@ -122,7 +122,7 @@
 - ### Slope 30 1 x 6 x 2/3 (Custom Part)
 
     - 7845ebtmp - *Template*
-    - 7845eb000 - *No Decal*
+    - 7845eb000 - *No Decals*
 
 - ### Slope 33 3 x 1
 
@@ -191,11 +191,11 @@
 
 - ### Slope 45 2 x 2, Inverted with Bottom Pin
 
-    - 3660eb000a - *Template*
+    - 3660aeb000 - *Template*
 
 - ### Slope 45 2 x 2, Inverted with Flat Bottom Pin
 
-    - 3660eb000b - *Template*
+    - 3660beb000 - *Template*
 
 - ### Slope 45 2 x 2, Inverted with Hollow Bottom Pin
 
@@ -226,18 +226,18 @@
 
     - 6636eb000 - *No Decal* -->
 
-<!-- - ### Tile 2 x 2 with Groove
+- ### Tile 2 x 2 without Groove
 
-    - 3068eb000 - *No Decal*
-    - 3068eb001 - *Large Classic Fire Logo*
-    - 3068eb002 - *Small Classic Fire Logo*
-    - 3068eb003 - *16 Buttons, 4 Red Lamps, and Black Background*
-    - 3068eb004 - *16 Buttons, 4 Red Lamps, and Yellow Background*
-    - 3068eb005 - *16 Red Buttons, 4 Yellow Lamps, and Yellow Border* -->
+    - 3068aebtmpa - *No Decal*
 
-<!-- - ### Tile 2 x 2 without Groove
+- ### Tile 2 x 2 with Groove
 
-    - 3068aeb000 - *No Decal* -->
+    - 3068bebtmp - *Template*
+    - 3068beb001 - *With Large Classic Fire Logo*
+    - 3068beb002 - *With Small Classic Fire Logo*
+    - 3068beb003 - *With 16 Buttons, 4 Red Lamps, and Black Background*
+    - 3068beb004 - *With 16 Buttons, 4 Red Lamps, and Yellow Background*
+    - 3068beb005 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
 
 # Wedges
 
