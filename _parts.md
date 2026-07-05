@@ -143,7 +143,7 @@
 
     - 3297ebtmp - *Template*
     - 3297eb000 - *Without Roof Texture*
-    - 3297eb001 - *With Classic Space Logo*
+    - 3297eb001 - *With Medium Classic Space Logo*
 
 - ### Slope 33 3 x 6 with Inner Walls
 
@@ -228,7 +228,7 @@
 
 - ### Tile 2 x 2 without Groove
 
-    - 3068aebtmpa - *No Decal*
+    - 3068aebtmpa - *Template*
 
 - ### Tile 2 x 2 with Groove
 
@@ -238,6 +238,19 @@
     - 3068beb003 - *With 16 Buttons, 4 Red Lamps, and Black Background*
     - 3068beb004 - *With 16 Buttons, 4 Red Lamps, and Yellow Background*
     - 3068beb005 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
+
+- ### Tile 2 x 3
+
+    - 26603ebtmp - *Template*
+
+- ### Tile 2 x 4
+
+    - 87079ebtmp - *Template*
+    - 87079eb001 - *With Large Classic Space Logo*
+
+- ### Tile 2 x 6
+
+    - 69729ebtmp - *Template*
 
 # Wedges
 
