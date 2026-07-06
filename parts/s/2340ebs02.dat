@@ -1,0 +1,14 @@
+0 ~Tail 4 x 1 x 3 - Right Face
+0 Name: s\2340ebs01.dat
+0 Modified: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Subpart UPDATE 2010-02
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+0 // ANGLE: 90° from horizontal / 0° from vertical
+0 // ABSOLUTE POSITION (W x L x H): 0 x 0 x 1.5
+0 // DIMENSIONS (W x L x H): 0 x 5 x 3 in studs (1 Stud = 400px)
+0 // IMAGE SIZE (W x H): 2000px x 1200px
+
+4 16 -2.0000 64.0000 -80.0000 -2.0000 4.0000 -20.0000 -2.0000 4.0000 20.0000 -2.0000 64.0000 0.0000
