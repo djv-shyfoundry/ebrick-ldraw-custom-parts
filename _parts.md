@@ -17,6 +17,7 @@
     - 3004eb007 - *With Black Grille*
     - 3004eb008 - *With White Grille*
     - 3004eb009 - *With Yellow Grille*
+    - 3004eb010 - *With Vintage Shell Logo*
 
 - ### Brick 1 x 3
 
