@@ -219,9 +219,9 @@
 
 # Tiles
 
-<!-- - ### Tile 1 x 4 with Groove
+- ### Tile 1 x 4
 
-    - 2431eb000 - *No Decal* -->
+    - 2431ebtmp - *Template*
 
 - ### Tile 1 x 6
 
