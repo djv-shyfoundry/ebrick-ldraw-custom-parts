@@ -1,0 +1,10 @@
+0 ~Antenna 1 x 1 x 4 - Rounded Top
+0 Name: s\3957ebs02.dat
+0 Modified: Emmet Brickowski [EBrick]
+0 !LDRAW_ORG Unofficial_Subpart
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+0 BFC CERTIFY CCW
+
+1 16 0.0000 -84.0000 0.0000 4.0000 0.0000 0.0000 0.0000 80.0000 0.0000 0.0000 0.0000 4.0000 4-4cyli.dat
+1 16 0.0000 -84.0000 0.0000 4.0000 0.0000 0.0000 0.0000 -4.0000 0.0000 0.0000 0.0000 4.0000 4-8sphe.dat
