@@ -217,15 +217,17 @@
     - 3037ebtmp - *Template*
     - 3037eb000 - *Without Roof Texture*
 
-<!-- # Tiles -->
+# Tiles
 
 <!-- - ### Tile 1 x 4 with Groove
 
     - 2431eb000 - *No Decal* -->
 
-<!-- - ### Tile 1 x 6 with Groove
+- ### Tile 1 x 6
 
-    - 6636eb000 - *No Decal* -->
+    - 6636ebtmp - *Template*
+    - 6636eb001 - *With Left Diagonal Red Stripes*
+    - 6636eb002 - *With Right Diagonal Red Stripes*
 
 - ### Tile 2 x 2 without Groove
 
