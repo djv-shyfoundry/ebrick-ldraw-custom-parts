@@ -230,8 +230,14 @@
 - ### Tile 1 x 6
 
     - 6636ebtmp - *Template*
-    - 6636eb001 - *With Left Diagonal Red Stripes*
-    - 6636eb002 - *With Right Diagonal Red Stripes*
+    - 6636eb001 - *With Left Diagonal Black Stripes*
+    - 6636eb002 - *With Right Diagonal Black Stripes*
+    - 6636eb003 - *With Left Diagonal Red Stripes*
+    - 6636eb004 - *With Right Diagonal Red Stripes*
+    - 6636eb005 - *With Left Diagonal White Stripes*
+    - 6636eb006 - *With Right Diagonal White Stripes*
+    - 6636eb007 - *With Left Diagonal Yellow Stripes*
+    - 6636eb008 - *With Right Diagonal Yellow Stripes*
 
 - ### Tile 2 x 2 without Groove
 
