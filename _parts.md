@@ -219,6 +219,22 @@
 
 # Tiles
 
+- ### Tile 1 x 1 without groove
+
+    - 3070aebtmp - *Template*
+
+- ### Tile 1 x 1
+
+    - 3070bebtmp - *Template*
+
+- ### Tile 1 x 2 without groove
+
+    - 3069aebtmp - *Template*
+
+- ### Tile 1 x 2
+
+    - 3069bebtmp - *Template*
+
 - ### Tile 1 x 3
 
     - 63864ebtmp - *Template*
@@ -243,7 +259,7 @@
 
     - 3068aebtmpa - *Template*
 
-- ### Tile 2 x 2 with Groove
+- ### Tile 2 x 2
 
     - 3068bebtmp - *Template*
     - 3068beb001 - *With Large Classic Fire Logo*
