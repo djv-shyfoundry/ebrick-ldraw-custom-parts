@@ -89,6 +89,23 @@
     - 30292ebtmp - *Template*
     - 30292eb001 - *With Blacktron I Logo Facing Forward*
 
+# Plates
+
+- ### Plate 1 x 1 x 2/3
+    - 68996ebtmp - *Template*
+
+- ### Plate 1 x 2 x 2/3 (Custom Part)
+    - 68997ebtmp - *Template*
+    - 68997eb000 - *No Decals*
+
+- ### Plate 1 x 3 x 2/3 (Custom Part)
+    - 68998ebtmp - *Template*
+    - 68998eb000 - *No Decals*
+
+- ### Plate 1 x 4 x 2/3 (Custom Part)
+    - 68999ebtmp - *Template*
+    - 68999eb000 - *No Decals*
+
 # Slopes
 
 - ### Slope 18 4 x 1
