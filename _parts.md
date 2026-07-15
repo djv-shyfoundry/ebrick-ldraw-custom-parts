@@ -251,14 +251,42 @@
 - ### Tile 1 x 2
 
     - 3069bebtmp - *Template*
+    <!-- - 3069eb001 - *With Left Diagonal Black Stripes* -->
+    <!-- - 3069eb002 - *With Right Diagonal Black Stripes* -->
+    <!-- - 3069eb003 - *With Left Diagonal Red Stripes* -->
+    <!-- - 3069eb004 - *With Right Diagonal Red Stripes* -->
+    - 3069eb005 - *With Left Diagonal White Stripes*
+    - 3069eb006 - *With Right Diagonal White Stripes*
+    <!-- - 3069eb007 - *With Left Diagonal Yellow Stripes* -->
+    <!-- - 3069eb008 - *With Right Diagonal Yellow Stripes* -->
+    - 3069eb009 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Black Border*
+    - 3069eb010 - *With Sensor Panel, 3 Lamps, 4 Buttons, and White Background*
+    - 3069eb011 - *With Computer Screen Panel, 9 Lamps, 3 Buttons, and White Background*
+    - 3069eb012 - *With Target Panel, 3 Lamps, 6 Buttons, and White Background*
 
 - ### Tile 1 x 3
 
     - 63864ebtmp - *Template*
+    <!-- - 63864eb001 - *With Left Diagonal Black Stripes* -->
+    <!-- - 63864eb002 - *With Right Diagonal Black Stripes* -->
+    <!-- - 63864eb003 - *With Left Diagonal Red Stripes* -->
+    <!-- - 63864eb004 - *With Right Diagonal Red Stripes* -->
+    <!-- - 63864eb005 - *With Left Diagonal White Stripes* -->
+    <!-- - 63864eb006 - *With Right Diagonal White Stripes* -->
+    <!-- - 63864eb007 - *With Left Diagonal Yellow Stripes* -->
+    <!-- - 63864eb008 - *With Right Diagonal Yellow Stripes* -->
 
 - ### Tile 1 x 4
 
     - 2431ebtmp - *Template*
+    <!-- - 2431eb001 - *With Left Diagonal Black Stripes* -->
+    <!-- - 2431eb002 - *With Right Diagonal Black Stripes* -->
+    <!-- - 2431eb003 - *With Left Diagonal Red Stripes* -->
+    <!-- - 2431eb004 - *With Right Diagonal Red Stripes* -->
+    <!-- - 2431eb005 - *With Left Diagonal White Stripes* -->
+    <!-- - 2431eb006 - *With Right Diagonal White Stripes* -->
+    <!-- - 2431eb007 - *With Left Diagonal Yellow Stripes* -->
+    <!-- - 2431eb008 - *With Right Diagonal Yellow Stripes* -->
 
 - ### Tile 1 x 6
 
