@@ -259,10 +259,12 @@
     - 3069eb006 - *With Right Diagonal White Stripes*
     <!-- - 3069eb007 - *With Left Diagonal Yellow Stripes* -->
     <!-- - 3069eb008 - *With Right Diagonal Yellow Stripes* -->
-    - 3069eb009 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Black Border*
+    - 3069eb009 - *With Screen Panel, 9 Lamps, 3 Buttons, and White Background*
     - 3069eb010 - *With Sensor Panel, 3 Lamps, 4 Buttons, and White Background*
-    - 3069eb011 - *With Computer Screen Panel, 9 Lamps, 3 Buttons, and White Background*
-    - 3069eb012 - *With Target Panel, 3 Lamps, 6 Buttons, and White Background*
+    - 3069eb011 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Yellow Background*
+    - 3069eb012 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Black Border*
+    - 3069eb013 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Yellow Border*
+    - 3069eb014 - *With Target Panel, 3 Lamps, 6 Buttons, and White Background*
 
 - ### Tile 1 x 3
 
