@@ -314,6 +314,7 @@
     - 3068beb003 - *With 16 Buttons, 4 Red Lamps, and Black Background*
     - 3068beb004 - *With 16 Buttons, 4 Red Lamps, and Yellow Background*
     - 3068beb005 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
+    - 3068beb006 - *With Long Yellow Arrow*
 
 - ### Tile 2 x 3
 
