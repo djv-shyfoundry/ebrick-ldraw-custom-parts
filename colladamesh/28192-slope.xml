@@ -1,0 +1,35 @@
+﻿	<geometry id="Part-28192-slope" name="Part-28192-slope">
+		<mesh>
+			<source id="Part-28192-slope-pos" name="Part-28192-slope-pos">
+				<float_array id="Part-28192-slope-pos-array" count="12">
+					10 0 10 -10 0 10 10 20 30 -10 20 30
+				</float_array>
+				<technique_common>
+					<accessor count="4" source="#Part-28192-slope-pos-array" stride="3">
+						<param name="X" type="float" /><param name="Y" type="float" /><param name="Z" type="float" />
+					</accessor>
+				</technique_common>
+			</source>
+			<source id="Part-28192-slope-norm" name="Part-28192-slope-norm">
+				<float_array id="Part-28192-slope-norm-array" count="12">
+					0 -0.7213874 0.6925319 0 -0.7213874 0.6925319 0 -0.7213874 0.6925319 0 -0.7213874 0.6925319
+				</float_array>
+				<technique_common>
+					<accessor count="4" source="#Part-28192-slope-norm-array" stride="3">
+						<param name="X" type="float" /><param name="Y" type="float" /><param name="Z" type="float" />
+					</accessor>
+				</technique_common>
+			</source>
+			<vertices id="Part-28192-slope-vert">
+				<input semantic="POSITION" source="#Part-28192-slope-pos" />
+			</vertices>
+			<triangles count="2" material="Base">
+				<input semantic="VERTEX" source="#Part-28192-slope-vert" offset="0" />
+				<input semantic="NORMAL" source="#Part-28192-slope-norm" offset="0" />
+				<p>
+					2 0 3 3 0 1
+				</p>
+			</triangles>
+		</mesh>
+	</geometry>
+	

@@ -275,8 +275,8 @@
     <!-- - 63864eb004 - *With Right Diagonal Red Stripes* -->
     <!-- - 63864eb005 - *With Left Diagonal White Stripes* -->
     <!-- - 63864eb006 - *With Right Diagonal White Stripes* -->
-    <!-- - 63864eb007 - *With Left Diagonal Yellow Stripes* -->
-    <!-- - 63864eb008 - *With Right Diagonal Yellow Stripes* -->
+    - 63864eb007 - *With Left Diagonal Yellow Stripes*
+    - 63864eb008 - *With Right Diagonal Yellow Stripes*
 
 - ### Tile 1 x 4
 

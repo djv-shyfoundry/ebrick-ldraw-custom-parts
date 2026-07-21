@@ -1,0 +1,6 @@
+{
+	"28192.dat": {
+		"28192-base": {"MaterialType":"Base", "Colors": [-1]},
+		"28192-slope": {"MaterialType":"Slope", "Colors": [-1]}
+	}
+}
