@@ -96,15 +96,15 @@
 
 - ### Plate 1 x 2 x 2/3 (Custom Part)
     - 68997ebtmp - *Template*
-    - 68997eb000 - *No Decals*
+    - 68997eb000 - *Plain Element*
 
 - ### Plate 1 x 3 x 2/3 (Custom Part)
     - 68998ebtmp - *Template*
-    - 68998eb000 - *No Decals*
+    - 68998eb000 - *Plain Element*
 
 - ### Plate 1 x 4 x 2/3 (Custom Part)
     - 68999ebtmp - *Template*
-    - 68999eb000 - *No Decals*
+    - 68999eb000 - **Plain Element*
 
 # Slopes
 
@@ -140,7 +140,7 @@
 - ### Slope 30 1 x 6 x 2/3 (Custom Part)
 
     - 7845ebtmp - *Template*
-    - 7845eb000 - *No Decals*
+    - 7845eb000 - *Plain Element*
 
 - ### Slope 33 3 x 1
 
@@ -209,11 +209,11 @@
 
 - ### Slope 45 2 x 2, Inverted with Bottom Pin
 
-    - 3660aeb000 - *Template*
+    - 3660aebtmp - *Template*
 
 - ### Slope 45 2 x 2, Inverted with Flat Bottom Pin
 
-    - 3660beb000 - *Template*
+    - 3660bebtmp - *Template*
 
 - ### Slope 45 2 x 2, Inverted with Hollow Bottom Pin
 
@@ -313,8 +313,13 @@
     - 3068beb002 - *With Small Classic Fire Logo*
     - 3068beb003 - *With 16 Buttons, 4 Red Lamps, and Black Background*
     - 3068beb004 - *With 16 Buttons, 4 Red Lamps, and Yellow Background*
-    - 3068beb005 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
-    - 3068beb006 - *With Long Yellow Arrow*
+    - 3068beb005 - *With 16 Black Buttons, 4 Red Lamps, and Yellow Background*
+    - 3068beb006 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
+    - 3068beb007 - *With Long Yellow Arrow*
+    - 3068beb008 - *With Wide Yellow Arrow and Line*
+    - 3068beb009 - *With Computer Panel and Left Side Target*
+    - 3068beb010 - *With Computer Panel and Right Side Target*
+    - 3068beb011 - *With Sensor Panel and 7 Black Grille Lines*
 
 - ### Tile 2 x 3
 
@@ -328,6 +333,31 @@
 - ### Tile 2 x 6
 
     - 69729ebtmp - *Template*
+
+# Wedge Plates
+
+- ### Wedge Plate 72 3 x 2 Left
+
+    - 43723ebtmp - *Template*
+    - 43723eb000 - *Plain Element*
+
+- ### Wedge Plate 72 3 x 2 Right
+
+    - 43722ebtmp - *Template*
+    - 43722eb000 - *Plain Element*
+
+- ### Wedge Plate 72 3 x 4 Left (Custom Part)
+
+    - 43733ebtmp - *Template*
+
+- ### Wedge Plate 72 3 x 4 Right (Custom Part)
+
+    - 43732ebtmp - *Template*
+
+- ### Wedge Plate 72 4 x 8 (Custom Part)
+
+    - 43750ebtmp - *Template*
+    - 43750eb000 - *Plain Element*
 
 # Wedges
 
