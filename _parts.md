@@ -120,6 +120,10 @@
     - 30363eb002 - *With Blacktron I Logo Facing Forward*
     - 30363eb003 - *With Blacktron I Logo Facing Backward*
 
+- ### Slope 18 4 x 6 (Custom Part)
+    - 4040ebtmp - *Template*
+    - 4040ebtmp - *With Large Classic Space Logo*
+
 - ### Slope 30 1 x 1 x 2/3
 
     - 54200ebtmp - *Template*
@@ -171,22 +175,22 @@
     - 3939eb003 - *With Small Classic Space Logo*
     - 3939eb004 - *With M:Tron Logo*
 
+- ### Slope 45 2 x 1 without Bottom Pin
+
+    - 3040aebtmp - *Template*
+
 - ### Slope 45 2 x 1
 
-    - 3040ebtmp - *Template*
-    - 3040eb000 - *Without Roof Texture*
-    - 3040eb001 - *With 3 Buttons, 3 Red Lamps on Left Side, and Black Background*
-    - 3040eb002 - *With 3 Buttons, 3 Red Lamps on Right Side, and Black Background*
-    - 3040eb003 - *With 3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
-    - 3040eb004 - *With 3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
-    - 3040eb005 - *With 3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
-    - 3040eb006 - *With 3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
-    - 3040eb007 - *With 2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
-    - 3040eb008 - *With 2 Buttons, 2 Red Lamps, and Yellow Background*
-
-<!-- - ### Slope 45 2 x 1 without Bottom Tube
-
-    - 3040aeb000 - *No Decal* -->
+    - 3040bebtmp - *Template*
+    - 3040beb000 - *Without Roof Texture*
+    - 3040beb001 - *With 3 Buttons, 3 Red Lamps on Left Side, and Black Background*
+    - 3040beb002 - *With 3 Buttons, 3 Red Lamps on Right Side, and Black Background*
+    - 3040beb003 - *With 3 Buttons, 3 Red Lamps on Left Side, and Yellow Background*
+    - 3040beb004 - *With 3 Buttons, 3 Red Lamps on Right Side, and Yellow Background*
+    - 3040beb005 - *With 3 Red Buttons, 3 Yellow Lamps on Left Side, and Yellow Border*
+    - 3040beb006 - *With 3 Red Buttons, 3 Yellow Lamps on Right Side, and Yellow Border*
+    - 3040beb007 - *With 2 Buttons, 1 Green Lamp, 1 Red Lamp, and Black Background*
+    - 3040beb008 - *With 2 Buttons, 2 Red Lamps, and Yellow Background*
 
 - ### Slope 45 2 x 2
 
@@ -207,23 +211,6 @@
     - 3039eb013 - *With White Grille*
     - 3039eb014 - *With Yellow Grille*
 
-- ### Slope 45 2 x 2, Inverted with Bottom Pin
-
-    - 3660aebtmp - *Template*
-
-- ### Slope 45 2 x 2, Inverted with Flat Bottom Pin
-
-    - 3660bebtmp - *Template*
-
-- ### Slope 45 2 x 2, Inverted with Hollow Bottom Pin
-
-    - 76959ebtmp - *Template*
-    - 76959eb000 - *Without Roof Texture*
-    - 76959eb001 - *With Computer Screen and Left Side Buttons*
-    - 76959eb002 - *With Computer Screen and Right Side Buttons*
-    - 76959eb003 - *With Computer Panel and Left Side Target*
-    - 76959eb004 - *With Computer Panel and Right Side Target*
-
 - ### Slope 45 2 x 3
 
     - 3038ebtmp - *Template*
@@ -233,6 +220,25 @@
 
     - 3037ebtmp - *Template*
     - 3037eb000 - *Without Roof Texture*
+
+# Inverted Slopes
+
+- ### Inverted Slope 45 2 x 2 with Bottom Pin
+
+    - 3660aebtmp - *Template*
+
+- ### Inverted Slope 45 2 x 2 with Flat Bottom Pin
+
+    - 3660bebtmp - *Template*
+
+- ### Inverted Slope 45 2 x 2 with Hollow Bottom Pin
+
+    - 76959ebtmp - *Template*
+    - 76959eb000 - *Without Roof Texture*
+    - 76959eb001 - *With Computer Screen and Left Side Buttons*
+    - 76959eb002 - *With Computer Screen and Right Side Buttons*
+    - 76959eb003 - *With Computer Panel and Left Side Target*
+    - 76959eb004 - *With Computer Panel and Right Side Target*
 
 # Tiles
 
@@ -260,10 +266,10 @@
     <!-- - 3069eb007 - *With Left Diagonal Yellow Stripes* -->
     <!-- - 3069eb008 - *With Right Diagonal Yellow Stripes* -->
     - 3069eb009 - *With Screen Panel, 9 Lamps, 3 Buttons, and White Background*
-    - 3069eb010 - *With Sensor Panel, 3 Lamps, 4 Buttons, and White Background*
-    - 3069eb011 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Yellow Background*
-    - 3069eb012 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Black Border*
-    - 3069eb013 - *With Sensor Panel, 3 Lamps, 4 Buttons, and Yellow Border*
+    - 3069eb010 - *With Dark Green Sensor Panel, 4 Buttons, and 3 Lamps*
+    - 3069eb011 - *With Dark Red Sensor Panel, 4 Buttons, and 3 Lamps*
+    - 3069eb012 - *With Dark Red Sensor Panel, 4 Buttons, 3 Lamps, and Black Background*
+    - 3069eb013 - *With Dark Red Sensor Panel, 4 Buttons, 3 Lamps, and Yellow Background*
     - 3069eb014 - *With Target Panel, 3 Lamps, 6 Buttons, and White Background*
 
 - ### Tile 1 x 3
@@ -312,14 +318,15 @@
     - 3068beb001 - *With Large Classic Fire Logo*
     - 3068beb002 - *With Small Classic Fire Logo*
     - 3068beb003 - *With 16 Buttons, 4 Red Lamps, and Black Background*
-    - 3068beb004 - *With 16 Buttons, 4 Red Lamps, and Yellow Background*
-    - 3068beb005 - *With 16 Black Buttons, 4 Red Lamps, and Yellow Background*
-    - 3068beb006 - *With 16 Red Buttons, 4 Yellow Lamps, and Yellow Border*
+    - 3068beb004 - *With 16 Black Buttons, 4 Red Lamps, and Yellow Background*
+    - 3068beb005 - *With 16 Red Buttons and 4 Yellow Lamps*
+    <!-- - 3068beb006 - *With 16 Black Buttons, 4 Red Lamps, and Yellow Background* -->
     - 3068beb007 - *With Long Yellow Arrow*
     - 3068beb008 - *With Wide Yellow Arrow and Line*
     - 3068beb009 - *With Computer Panel and Left Side Target*
     - 3068beb010 - *With Computer Panel and Right Side Target*
-    - 3068beb011 - *With Sensor Panel and 7 Black Grille Lines*
+    - 3068beb011 - *With Dark Green Sensor Panel, 7 Black Grille Lines, 4 Buttons, and 3 Lamps*
+    - 3068beb012 - *With Dark Red Sensor Panel, 7 Black Grille Lines, 4 Buttons, and 3 Lamps*
 
 - ### Tile 2 x 3
 
